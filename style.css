@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+     color: #080391;
+     
+}
+
+#todoList{
+font-size: large;
+margin: 40px;
+padding: 20px 80px;
+}
+li{
+
+    margin: 10px;
+}
